@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BahnkUJTGYtSX7N8o4jSQbAVIHdV7NS2TU4zqjlRY48F/D/BY78xYii2MyGiw3Aa552hXZ7hh0lueZ6wIg4Hmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jadga\\source\\repos\\ChatPing\\ChatPing\\ChatPing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jadga\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\jadga\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\jadga\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\jadga\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

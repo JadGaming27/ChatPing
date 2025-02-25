@@ -1,0 +1,16 @@
+C:\Users\jadga\source\repos\ChatPing\ChatPing\bin\Debug\net6.0-windows\ChatPing.exe
+C:\Users\jadga\source\repos\ChatPing\ChatPing\bin\Debug\net6.0-windows\ChatPing.deps.json
+C:\Users\jadga\source\repos\ChatPing\ChatPing\bin\Debug\net6.0-windows\ChatPing.runtimeconfig.json
+C:\Users\jadga\source\repos\ChatPing\ChatPing\bin\Debug\net6.0-windows\ChatPing.dll
+C:\Users\jadga\source\repos\ChatPing\ChatPing\bin\Debug\net6.0-windows\ChatPing.pdb
+C:\Users\jadga\source\repos\ChatPing\ChatPing\obj\Debug\net6.0-windows\ChatPing.ChatPing.resources
+C:\Users\jadga\source\repos\ChatPing\ChatPing\obj\Debug\net6.0-windows\ChatPing.csproj.GenerateResource.cache
+C:\Users\jadga\source\repos\ChatPing\ChatPing\obj\Debug\net6.0-windows\ChatPing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jadga\source\repos\ChatPing\ChatPing\obj\Debug\net6.0-windows\ChatPing.AssemblyInfoInputs.cache
+C:\Users\jadga\source\repos\ChatPing\ChatPing\obj\Debug\net6.0-windows\ChatPing.AssemblyInfo.cs
+C:\Users\jadga\source\repos\ChatPing\ChatPing\obj\Debug\net6.0-windows\ChatPing.csproj.CoreCompileInputs.cache
+C:\Users\jadga\source\repos\ChatPing\ChatPing\obj\Debug\net6.0-windows\ChatPing.dll
+C:\Users\jadga\source\repos\ChatPing\ChatPing\obj\Debug\net6.0-windows\refint\ChatPing.dll
+C:\Users\jadga\source\repos\ChatPing\ChatPing\obj\Debug\net6.0-windows\ChatPing.pdb
+C:\Users\jadga\source\repos\ChatPing\ChatPing\obj\Debug\net6.0-windows\ChatPing.genruntimeconfig.cache
+C:\Users\jadga\source\repos\ChatPing\ChatPing\obj\Debug\net6.0-windows\ref\ChatPing.dll
